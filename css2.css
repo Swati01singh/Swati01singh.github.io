@@ -19,6 +19,7 @@ body{
     position: sticky;
     top: 0;
     cursor: pointer;
+    z-index: 10000000000;
   }
   .list{
     display: inline-block;
