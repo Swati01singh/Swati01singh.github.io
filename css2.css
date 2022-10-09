@@ -1,0 +1,204 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 1620px;
+    
+  }
+  .img{
+    margin: 0px 0px;
+    position: relative;
+    bottom: 90px;
+    display: block;
+    justify-content: center;
+    z-index: -1;
+  }
+  .navbar{
+    margin: 0px 0px;
+    border: 2px solid grey;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+  }
+  .list{
+    display: inline-block;
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    position: relative;
+    left: 1042px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .list a{
+    text-decoration: none;
+    color: white;
+   
+  }
+  .list a:hover{
+    color: rgb(44, 38, 38);
+  }
+  .img1{
+    position: relative;
+    top: 6px;
+    left: 5px;
+    z-index: -1;
+  }
+  #name{
+    text-align: center;
+    position: relative;
+    bottom: 90px;
+    right: 430px;
+    z-index: -1;
+  }
+  .services{
+    position: relative;
+    bottom: 80px;
+    text-align: center;
+    z-index: -1;
+    
+  }
+  .boys1{
+    position: relative;
+    left: 55px;
+  }
+  .boys2{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+  }
+  .boys{
+    border: 2px solid black;
+    width: 300px;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 30px;
+  }
+  .girls1{
+    position: relative;
+    left: 55px;
+  }
+  .girls2{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+  }
+  .girls{
+    border: 2px solid black;
+    width: 300px;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 30px;
+  }
+  .mess1{
+    position: relative;
+    left: 55px;
+  }
+  .mess2{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+  }
+  .mess{
+    border: 2px solid black;
+    width: 300px;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 30px;
+  }
+  .sports1{
+    position: relative;
+    left: 55px;
+  }
+  .sports2{
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+  }
+  .sports{
+    border: 2px solid black;
+    width: 300px;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 30px;
+  }
+  .whole{
+    display: flex;
+    padding: 10px;
+    margin: 3px;
+    position: relative;
+    bottom: 50px;
+    justify-content: center;
+  }
+  .apply{
+    text-align: center;
+    position: relative;
+    bottom: 140px;
+    left: 1130px;
+    display: inline-block;
+    
+  }
+  .apply a{
+    border: 2px solis black;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-decoration: none;
+    
+    
+  }
+  .apply a:hover{
+    color: black;
+   
+  }
+  .last{
+    display: flex;
+    justify-content: center;
+    border: 2px solid gray;
+    padding: 50px;
+    background-color: gray;
+  }
+  .add{
+    border: 2px solid black;
+    width: 400px;
+    position: relative;
+    left: 20px;
+  }
+  .logo{
+    display: flex;
+    border: 2px solid grey;
+    background-color: grey;
+    position: relative;
+    top: 30px;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  #log1 img{
+    height: 50px;
+    width: 50px;
+  }
+  #log2 img{
+    height: 50px;
+    width: 50px;
+    
+  }
+  #log3 img{
+    height: 50px;
+    width: 50px;
+   
+  }
+  #log4 img{
+    height: 50px;
+    width: 50px;
+    
+  }
+  .contact{
+    position: relative;
+    right: 20px;
+  }
+  .foot{
+    position: relative;
+    top: 15px;
+    text-align: center;
+    font-size: medium;
+  }

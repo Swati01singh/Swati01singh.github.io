@@ -1,0 +1,227 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 2500px;
+  }
+  .img{
+    margin: 0px 0px;
+    position: relative;
+    bottom: 90px;
+    display: block;
+    justify-content: center;
+    z-index: -1;
+  }
+  .navbar{
+    margin: 0px 0px;
+    border: 2px solid grey;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+  }
+  .list{
+    display: inline-block;
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    position: relative;
+    left: 1042px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .list a{
+    text-decoration: none;
+    color: white;
+   
+  }
+  .list a:hover{
+    color: rgb(44, 38, 38);
+  }
+  .img1{
+    position: relative;
+    top: 6px;
+    left: 5px;
+    z-index: -1;
+  }
+  #name{
+    text-align: center;
+    position: relative;
+    bottom: 90px;
+    right: 430px;
+    z-index: -1;
+  }
+  .apply{
+    text-align: center;
+    position: relative;
+    bottom: 140px;
+    left: 1130px;
+    display: inline-block;
+    
+  }
+  .apply a{
+    border: 2px solis black;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-decoration: none;
+    
+    
+  }
+  .apply a:hover{
+    color: black;
+   
+  }
+  .boys{
+    position: relative;
+    bottom: 70px;
+    left: 175px;
+    z-index: -1;
+    display: inline-block;
+  }
+  .head1{
+    border: 2px solid grey;
+    background-color: bisque;
+    display: block;
+    width: 800px;
+    position: relative;
+    left: 170px;
+    bottom: 70px;
+    padding: 10px;
+    border-radius: 2px;
+    z-index: -1;
+  }
+  .para1{
+    justify-content: center;
+    display: block;
+    width: 1000px;
+    margin: auto;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 60px;
+    z-index: -1;
+  }
+  .head2{
+    border: 2px solid grey;
+    background-color: bisque;
+    display: block;
+    width: 800px;
+    position: relative;
+    left: 170px;
+    bottom: 50px;
+    padding: 10px;
+    border-radius: 2px;
+    z-index: -1;
+  }
+  .para2{
+    justify-content: center;
+    display: block;
+    width: 1000px;
+    margin: auto;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 40px;
+    z-index: -1;
+  }
+  .head3{
+    border: 2px solid grey;
+    background-color: bisque;
+    display: block;
+    width: 800px;
+    position: relative;
+    left: 170px;
+    bottom: 40px;
+    padding: 10px;
+    border-radius: 2px;
+    z-index: -1;
+  }
+  .para3{
+    justify-content: center;
+    display: block;
+    width: 1000px;
+    margin: auto;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 30px;
+    z-index: -1;
+  }
+  .contact3{
+    position: relative;
+    bottom: 50px;
+    left: 175px;
+    border: 2px solid gray;
+    width: 800px;
+    background-color: rgb(223, 221, 221);
+    margin: 40px;
+    padding: 20px;
+    display: inline-block;
+    z-index: -1;
+    
+  }
+  .contact2{
+    font: bold;
+    justify-content: center;
+    display: block;
+    width: 1000px;
+    margin: auto;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 10px;
+    z-index: -1;
+    
+  }
+  .last{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid gray;
+    padding: 50px;
+    background-color: gray;
+  }
+  .add{
+    border: 2px solid black;
+    width: 400px;
+    position: relative;
+    left: 20px;
+  }
+  .logo{
+    display: flex;
+    border: 2px solid grey;
+    background-color: grey;
+    position: relative;
+    top: 30px;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  #log1 img{
+    height: 50px;
+    width: 50px;
+  }
+  #log2 img{
+    height: 50px;
+    width: 50px;
+    
+  }
+  #log3 img{
+    height: 50px;
+    width: 50px;
+   
+  }
+  #log4 img{
+    height: 50px;
+    width: 50px;
+    
+  }
+  .contact{
+    position: relative;
+    right: 20px;
+  }
+  .foot{
+    position: relative;
+    top: 15px;
+    text-align: center;
+    font-size: medium;
+  }
